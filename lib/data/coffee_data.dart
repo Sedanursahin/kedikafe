@@ -8,7 +8,7 @@ final List<Coffee> coffeeList = [
     description:
         'Eşit oranda zengin espresso, sıcak süt ve üzerinde kadifemsi, yoğun bir süt köpüğü katmanı.',
     price: 180,
-    imagePath: 'assets/images/kapucino.jpg',
+    imagePath: 'assets/cappu.png',
     category: 'sıcak içecekler',
   ),
   Coffee(
@@ -18,7 +18,7 @@ final List<Coffee> coffeeList = [
     description:
         'Double shot espressonun buz ve soğuk suyla buluştuğu, kahve çekirdeğinin karakterini en saf haliyle sunan modern bir klasik.',
     price: 180,
-    imagePath: 'assets/images/iceamericano.jpg',
+    imagePath: 'assets/iceamericano.png',
     category: 'soğuk içecekler',
   ),
   Coffee(
@@ -28,7 +28,7 @@ final List<Coffee> coffeeList = [
     description:
         'Double shot zengin espressonun sıcak su ile dengelenmiş hali. Filtre kahveden daha gövdeli, pürüzsüz bir içim deneyimi.',
     price: 180,
-    imagePath: 'assets/images/americano.jpg',
+    imagePath: 'assets/sicakamericano.png',
     category: 'sıcak içecekler',
   ),
   Coffee(
@@ -38,7 +38,7 @@ final List<Coffee> coffeeList = [
     description:
         'Özenle seçilmiş ve ideal derecede öğütülmüş kahve çekirdeklerinin suyla buluşmasıyla ortaya çıkan, pürüzsüz ve dengeli bir günün başlangıcı.',
     price: 160,
-    imagePath: 'assets/images/fkahve.jpg',
+    imagePath: 'assets/filtre.png',
     category: 'sıcak içecekler',
   ),
   Coffee(
@@ -48,7 +48,7 @@ final List<Coffee> coffeeList = [
     description:
         'Tamamen doğal malzemelerle, taze sıkılmış limon suyu ve hafif şeker dengesiyle hazırlanan, günün en ferahlatıcı molası.',
     price: 200,
-    imagePath: 'assets/images/limonata.jpg',
+    imagePath: 'assets/limonata.png',
     category: 'soğuk içecekler',
   ),
   Coffee(
@@ -58,7 +58,7 @@ final List<Coffee> coffeeList = [
     description:
         'Kurutulmuş hibiskus çiçeği özünün, böğürtlen ve ahududu notalarıyla buluştuğu, buzlu ve hafif ekşimsi bir serinlik dalgası.',
     price: 200,
-    imagePath: 'assets/images/hibiscus.jpg',
+    imagePath: 'assets/hibiscus.png',
     category: 'soğuk içecekler',
   ),
   Coffee(
@@ -68,7 +68,7 @@ final List<Coffee> coffeeList = [
     description:
         'Dışı çıtır, içi yumuşacık ve bol çikolata dolgulu geleneksel Amerikan tarzı kurabiye. Kahvenizin yanına en saf ve sıcak eşlikçi.',
     price: 70,
-    imagePath: 'assets/images/hibiscus.jpg',
+    imagePath: 'assets/cookie.png',
     category: 'tatlılar',
   ),
   Coffee(
@@ -78,7 +78,7 @@ final List<Coffee> coffeeList = [
     description:
         'Serinletici nane özü ve taze misket limonu (lime) dilimlerinin buzlu suyla buluştuğu, ultra ferahlatıcı ve hafif bir yaz klasiği.',
     price: 200,
-    imagePath: 'assets/images/lime.jpg',
+    imagePath: 'assets/coollime.png',
     category: 'soğuk içecekler',
   ),
   Coffee(
@@ -88,7 +88,7 @@ final List<Coffee> coffeeList = [
     description:
         'Double shot zengin espresso ve buharla ısıtılmış kadifemsi sütün, premium beyaz çikolata sosuyla harmanlandığı yoğun ve tatlı bir kahve klasiği.',
     price: 220,
-    imagePath: 'assets/images/waytmoka.jpg',
+    imagePath: 'assets/whitemocha.png',
     category: 'sıcak içecekler',
   ),
   Coffee(
@@ -98,7 +98,7 @@ final List<Coffee> coffeeList = [
     description:
         'Double shot zengin espresso, soğuk süt ve premium beyaz çikolata sosunun buzla çalkalanarak sunulduğu, kremsi ve ferahlatıcı bir tatlı mola.',
     price: 220,
-    imagePath: 'assets/images/icewaytmoka.jpg',
+    imagePath: 'assets/icewhitemocha.png',
     category: 'soğuk içecekler',
   ),
   Coffee(
@@ -108,7 +108,7 @@ final List<Coffee> coffeeList = [
     description:
         'Double shot zengin espressonun, buharla ısıtılmış pürüzsüz ve hafif köpüklü sıcak sütle buluştuğu yumuşak içimli kahve klasiği.',
     price: 200,
-    imagePath: 'assets/images/latte.jpg',
+    imagePath: 'assets/latte.png',
     category: 'sıcak içecekler',
   ),
   Coffee(
@@ -118,7 +118,7 @@ final List<Coffee> coffeeList = [
     description:
         'Double shot zengin espressonun, soğuk süt ve bol buzla buluştuğu; kahve lezzetini hafif ve ferah bir şekilde sunan pürüzsüz bir klasik.',
     price: 200,
-    imagePath: 'assets/images/icelatte.jpg',
+    imagePath: 'assets/icelatte.png',
     category: 'soğuk içecekler',
   ),
   Coffee(
@@ -128,7 +128,7 @@ final List<Coffee> coffeeList = [
     description:
         'Double shot zengin espresso ve soğuk sütün, premium karamel sosu ve buzla buluştuğu; tatlı, ferahlatıcı ve pürüzsüz bir lezzet dengesi.',
     price: 220,
-    imagePath: 'assets/images/icecarlatte.jpg',
+    imagePath: 'assets/icecaramellatte.png',
     category: 'soğuk içecekler',
   ),
   Coffee(
@@ -138,7 +138,7 @@ final List<Coffee> coffeeList = [
     description:
         'Double shot zengin espresso ve soğuk sütün,premium altın sarısı karamel sosuyla tatlı ve sıcak buluşması.',
     price: 220,
-    imagePath: 'assets/images/carlatte.jpg',
+    imagePath: 'assets/caramellatte.png',
     category: 'sıcak içecekler',
   ),
   Coffee(
@@ -148,7 +148,7 @@ final List<Coffee> coffeeList = [
     description:
         'Karadeniz’in en seçkin çay yapraklarının ağır ateşte, sabırla demlenmesiyle hazırlanan; berrak rengi ve tam kıvamında demiyle günün her anına eşlik eden geleneksel bir lezzet.',
     price: 50,
-    imagePath: 'assets/images/cay.jpg',
+    imagePath: 'assets/cay.png',
     category: 'sıcak içecekler',
   ),
   Coffee(
@@ -158,7 +158,7 @@ final List<Coffee> coffeeList = [
     description:
         'Espressoya batırılmış kedi dili bisküvileri, pürüzsüz mascarpone kreması ve üzerinde yoğun kakao dokunuşuyla hazırlanan zamansız bir İtalyan klasiği.',
     price: 200,
-    imagePath: 'assets/images/tiramisu.jpg',
+    imagePath: 'assets/tiramisu.png',
     category: 'tatlılar',
   ),
   Coffee(
@@ -168,7 +168,7 @@ final List<Coffee> coffeeList = [
     description:
         'İncecik öğütülmüş Arabica çekirdeklerinin bakır cezvede ağır ağır pişmesiyle hazırlanan; bol köpüğü, kendine has kokusu ve telvesiyle sunulan zamansız bir ritüel.',
     price: 120,
-    imagePath: 'assets/images/turkkahve.jpg',
+    imagePath: 'assets/turkkahvesi.png',
     category: 'sıcak içecekler',
   ),
   Coffee(
@@ -178,7 +178,7 @@ final List<Coffee> coffeeList = [
     description:
         'Kıtır bisküvi tabanı üzerinde yavaşça fırınlanmış pürüzsüz krema katmanı ve üzerini kaplayan ev yapımı ferahlatıcı ekşi-tatlı limon sosu.',
     price: 200,
-    imagePath: 'assets/images/limoncake.jpg',
+    imagePath: 'assets/limoncake.png',
     category: 'tatlılar',
   ),
   Coffee(
@@ -188,7 +188,8 @@ final List<Coffee> coffeeList = [
     description:
         'Kıtır bisküvi tabanı üzerinde yavaşça fırınlanmış pürüzsüz krema katmanı ve üzerini kaplayan ev yapımı ferahlatıcı ekşi-tatlı limon sosuÖzel tarifle fırınlanmış ipeksi balkabağı püresi, çıtır bisküvi kırıntıları ve katmanlar halinde yükselen pürüzsüz, hafif magnolia kreması.',
     price: 120,
-    imagePath: 'assets/images/balkabak.jpg',
+    imagePath: 'assets/balkabak.png',
     category: 'tatlılar',
   ),
+
 ];

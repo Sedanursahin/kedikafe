@@ -8,8 +8,8 @@ class CoffeeCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 199,
-      height: 240,
+      width: 150,
+      height: 170,
       decoration: BoxDecoration(
         color: Colors.white,
         borderRadius: BorderRadius.circular(16),
@@ -26,9 +26,52 @@ class CoffeeCard extends StatelessWidget {
             ),
           ),
           const SizedBox(height: 8),
-          Text(coffee.name),
-        ],
+          Text(
+            coffee.name,
+            maxLines: 1,
+            style: const TextStyle(
+              fontSize: 16,
+              fontWeight: FontWeight.bold,
+              color: Colors.black,
+        
+               )),
+const SizedBox(height: 4),
+Text(
+coffee.subTitle,
+maxLines: 1,
+overflow: TextOverflow.ellipsis,
+style: const TextStyle(
+fontSize: 14,
+color: Colors.grey,
+)
+),
+const SizedBox(height: 8),
+Row(children: [
+Text('${coffee.price} ₺',
+style: const TextStyle(
+fontSize: 16,
+fontWeight: FontWeight.bold,
+color: Color(0xFF03AD00),
+)
+),
+const Spacer(),
+Container(
+  padding: const EdgeInsets.all(6),
+  decoration: BoxDecoration(
+     color: const Color(0xFFD4A373),
+    borderRadius: BorderRadius.circular(6),
+  ),
+  child: const Icon(
+    Icons.add,
+    color: Colors.white,
+    size: 18,
+  ),
+),
+
+],),
+      ]
       ),
     );
+    
   }
 }

@@ -39,7 +39,7 @@ final List<Coffee> coffeeList = [
         'Özenle seçilmiş ve ideal derecede öğütülmüş kahve çekirdeklerinin suyla buluşmasıyla ortaya çıkan, pürüzsüz ve dengeli bir günün başlangıcı.',
     price: 160,
     imagePath: 'assets/filtre.png',
-    category: 'sıcak içecekler',
+    category: 's',
   ),
   Coffee(
     id: '4',
@@ -149,7 +149,7 @@ final List<Coffee> coffeeList = [
         'Karadeniz’in en seçkin çay yapraklarının ağır ateşte, sabırla demlenmesiyle hazırlanan; berrak rengi ve tam kıvamında demiyle günün her anına eşlik eden geleneksel bir lezzet.',
     price: 50,
     imagePath: 'assets/cay.png',
-    category: 'sıcak içecekler',
+    category: 'çaylar',
   ),
   Coffee(
     id: '16',

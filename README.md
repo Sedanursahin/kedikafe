@@ -22,7 +22,7 @@ Proje henüz tamamlanmadı, geliştirme aşaması devam ediyor. Şu ana kadar ta
 
 - **Programlama Dili:** Dart
 - **Framework:** Flutter
-- **Yazı Tipi:** Google Fonts (Poppins fontu)
+
 
 ## Nasıl Çalıştırılır?
 

@@ -1,4 +1,6 @@
 # Mobil Sipariş ve Sepet Yönetim Sistemi
+<img width="380" height="797" alt="image" src="https://github.com/user-attachments/assets/241d7271-e4f4-4550-a3fb-1691fc4fb802" />
+<img width="374" height="804" alt="image" src="https://github.com/user-attachments/assets/d3944d42-52ef-4311-8fd7-f91102479c0b" />
 
 Bu proje, kafelerde veya restoranlarda kullanılmak üzere geliştirmekte olduğum mobil tabanlı bir sipariş ve sepet yönetim uygulamasıdır. Amacım, kafe ortamındaki sipariş alma ve hesap özetleme süreçlerini mobil bir arayüz üzerinden dijitalleştirmek.
 
